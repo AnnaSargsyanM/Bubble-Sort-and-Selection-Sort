@@ -1,16 +1,3 @@
-//****************************************************************************************************
-//     File:               Assignment3-1.cpp
-// 
-//     Student:            Anna Sargsyan
-// 
-//     Assignment:         Program #3 - Part 1
-// 
-//     Course Name:        Programming II
-// 
-//     Course Number:      COSC 1560-01
-// 
-//     Due:                September 18, 2023
-//
 //     This program reads the student names from a text file. Then prompts the 
 //     user for a student name, searches it, and displays the index if found. 
 //     Also, the program rearranges the student names in ascending and 
